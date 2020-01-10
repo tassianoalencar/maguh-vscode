@@ -1,10 +1,7 @@
 <p align="center">
-  <img height="300" src="images/logo.jpg">
+  <img width="128" height="128" src="images/logo.png">
 </p>
 
 <h1 align="center">Maguh Theme</h1>
 
-
-
 This theme is under development...
-
