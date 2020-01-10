@@ -1,5 +1,5 @@
 <p aligh="center">
-  <img src="images/logo.jpg" title="A black cat wizard">
+  <img src="images/logo.jpg" height="150" title="A black cat wizard">
 </p>
 
 # Maguh Theme
