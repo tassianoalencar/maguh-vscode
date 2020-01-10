@@ -378,30 +378,6 @@
   },
   "tokenColors": [
     {
-      "name": "Compiled Italics",
-      "scope": [
-        "comment",
-        "entity.other.inherited-class",
-        "entity.other.attribute-name.pseudo-element.css",
-        "markup.italic.markdown",
-        "markup.quote",
-        "meta.function.variable.css",
-        "punctuation.definition.italic.markdown",
-        "punctuation.definition.string.css",
-        "string.quoted.double.css",
-        "storage.type.function",
-        "support.variable",
-        "variable",
-        "variable.other.object.property",
-        "variable.language",
-        "variable.parameter",
-        "variable.argument.css"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "Bold",
       "scope": [
         "markup.bold.markdown",
