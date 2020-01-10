@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "tassianoalencar",
+  "icon": "images/logo.png",
   "author": {
     "name": "Tassiano Alencar",
     "url": "https://github.com/tassianoalencar"
