@@ -1,8 +1,10 @@
-<p aligh="center">
-  <img src="images/logo.jpg" height="150" title="A black cat wizard">
+<p align="center">
+  <img height="300" src="images/logo.jpg">
 </p>
 
-# Maguh Theme
+<h1 align="center">Maguh Theme</h1>
+
+
 
 This theme is under development...
 
