@@ -1,0 +1,46 @@
+{
+  "name": "maguh-theme",
+  "displayName": "Maguh",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "tassianoalencar",
+  "author": {
+    "name": "Tassiano Alencar",
+    "url": "https://github.com/tassianoalencar"
+  },
+  "preview": true,
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tassianoalencar/maguh-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/tassianoalencar/maguh-vscode/issues"
+  },
+  "homepage": "https://github.com/tassianoalencar/maguh-vscode",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "maguh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maguh-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "flat"
+  ]
+}
