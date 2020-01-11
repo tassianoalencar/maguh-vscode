@@ -1,7 +1,7 @@
 {
   "name": "maguh-theme",
-  "displayName": "Maguh",
-  "description": "",
+  "displayName": "Maguh Theme",
+  "description": "Dark theme focused on simplicity and standardization.",
   "version": "0.0.2",
   "publisher": "tassianoalencar",
   "icon": "images/logo.png",
