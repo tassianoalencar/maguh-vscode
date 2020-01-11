@@ -203,6 +203,14 @@
   },
   "tokenColors": [
     {
+      "name": "General",
+      "scope": [],
+      "settings": {
+        "foreground": "#FF0000"
+      }
+    },
+
+    {
       "scope": [
         "meta.embedded",
         "source.groovy.embedded"
@@ -230,7 +238,11 @@
       }
     },
     {
-      "scope": "comment",
+      "scope": [
+        "comment",
+        "keyword.other.type.php",
+        "keyword.other.phpdoc.php",
+      ],
       "settings": {
         "foreground": "#444444"
       }
@@ -580,7 +592,8 @@
       "name": "Types declaration and references",
       "scope": [
         "meta.return-type",
-        "support.class",
+        "meta.other.inherited-class.php",
+        "meta.use.php",
         "support.type",
         "entity.name.type",
         "entity.name.namespace",
@@ -611,10 +624,13 @@
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy"
+        "storage.type.primitive.groovy",
+        "meta.class.body.php",
+        "storage.type.php",
+        "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#48bb78"
       }
     },
     {
@@ -625,7 +641,6 @@
         "support.constant.math",
         "support.constant.dom",
         "support.constant.json",
-        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#4EC9B0"

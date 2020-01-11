@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License">
 </p>
 
+## In development
+
+This is a theme in development!!!
+
+---
+
 ## Installing
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/tassianoalencar.maguh-theme)
