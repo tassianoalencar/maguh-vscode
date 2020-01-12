@@ -14,7 +14,7 @@
     "breadcrumb.foreground": "#444444",
     "breadcrumbPicker.background": "#1c1c1c",
     "button.background": "#553C9A",
-    "button.hoverBackground": "#f661b1",
+    "button.hoverBackground": "#805ad5",
     "debugExceptionWidget.border": "#553C9A",
     "debugToolBar.background": "#272727",
     "debugToolBar.border": "#553C9A",
@@ -419,15 +419,6 @@
     },
     {
       "scope": [
-        "storage.modifier",
-        "keyword.operator.noexcept"
-      ],
-      "settings": {
-        "foreground": "#569cd6"
-      }
-    },
-    {
-      "scope": [
         "string",
         "entity.name.operator.custom-literal.string",
         "meta.embedded.assembly"
@@ -484,7 +475,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -564,7 +555,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -619,7 +610,9 @@
         "storage.type.primitive.groovy",
         "meta.class.body.php",
         "storage.type.php",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "support.other.namespace",
+        "support.class"
       ],
       "settings": {
         "foreground": "#ed64a6"
@@ -649,7 +642,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#569cd6"
       }
     },
     {
@@ -661,7 +654,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -769,6 +762,15 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#b267e6"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.begin.bracket",
+        "punctuation.definition.end.bracket"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
       }
     }
   ]
