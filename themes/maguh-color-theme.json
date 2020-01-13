@@ -565,7 +565,11 @@
         "support.function",
         "support.constant.handlebars",
         "source.powershell variable.other.member",
-        "entity.name.operator.custom-literal"
+        "entity.name.operator.custom-literal",
+        "punctuation.definition.parameters.end.bracket",
+        "punctuation.definition.parameters.begin.bracket",
+        "punctuation.definition.arguments.begin",
+        "punctuation.definition.arguments.end"
       ],
       "settings": {
         "foreground": "#DCDCAA"
