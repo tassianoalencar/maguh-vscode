@@ -42,7 +42,7 @@
     "editor.wordHighlightStrongBorder": "#00000000",
     "editorBracketMatch.background": "#1c1c1c",
     "editorBracketMatch.border": "#777777",
-    "editorCursor.foreground": "#553C9A",
+    "editorCursor.foreground": "#FFFFFF",
     "editorError.foreground": "#c42412",
     "editorGroup.border": "#272727",
     "editorGroup.dropBackground": "#1c1c1c",
