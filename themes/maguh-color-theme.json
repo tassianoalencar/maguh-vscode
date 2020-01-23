@@ -746,7 +746,8 @@
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy"
+        "storage.type.primitive.groovy",
+        "storage.type.php"
       ],
       "settings": {
         "foreground": "#68d391"
